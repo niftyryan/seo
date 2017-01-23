@@ -1,5 +1,5 @@
 <div itemscope itemtype="http://schema.org/LocalBusiness">
-<a itemprop="url" href="http://khaninjurylaw.com/"><div itemprop="name" content="Khan Law Firm PLLC"></div>
+<a itemprop="url" href="http://khaninjurylaw.com/"><div itemprop="name" content="Khan Law Firm Test"></div>
 </a>
 <img itemprop="image" src="http://khaninjurylaw.com/wp-content/uploads/2016/07/khan_logo_sm.png" alt="Khan Law Firm, PLLC logo" style="display:none;"/>
 <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
