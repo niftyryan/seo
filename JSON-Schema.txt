@@ -1,0 +1,71 @@
+//This is code to add business information using JSON as opposed to microdata
+
+<script type="application/ld+json">{  
+   "@context":"http://schema.org",
+   "@type":"Attorney",
+   "url":"https://cprlaw.com/",
+   "name":"Cohen, Placitella & Roth, P.C.",
+   "description":"The law firm of Cohen, Placitella & Roth, P.C. only provides legal advice after it has entered into an attorney-client relationship, which this website specifically does not create. Only after having entered into a written, signed agreement with the law firm of Cohen, Placitella & Roth, P.C. will an attorney-client relationship have been created. It is imperative that any action taken be done on the advice of counsel. Because every case is different, the descriptions of awards and cases previously handled are not meant to be a guarantee of success. Cohen, Placitella & Roth, a National Personal Injury, Mesothelioma, Birth Injury and Medical Malpractice Law Firm with Offices in Pennsylvania and New Jersey.",
+   "image":"https://cprlaw.com/wp-content/uploads/2015/05/CPR1_footer_mobile_rdy.png",
+   "hasMap":"https://www.google.com/maps?ll=39.954163,-75.173731&z=14&t=m&hl=en&gl=US&mapclient=embed&q=2001+Market+St+Philadelphia,+PA+19103",
+   "email":"",
+   "telephone":"(215) 567-3500",
+   "sameAs":[  
+      "https://www.facebook.com/cprlawfirm",
+      "https://www.linkedin.com/company/2587790",
+      "",
+      "https://plus.google.com/110565536213924239349/about"
+   ],
+   "aggregateRating":{  
+      "@type":"AggregateRating",
+      "ratingValue":"5",
+      "ratingCount":"11"
+   },
+   "openingHours":[  
+      ""
+   ],
+   "address":{  
+      "@type":"PostalAddress",
+      "addressLocality":"Philadelphia",
+      "addressRegion":"PA",
+      "postalCode":"19103",
+      "streetAddress":"2001 Market Street, Suite 2900"
+   },
+   "geo":{  
+      "@type":"GeoCoordinates",
+      "latitude":"39.9540681",
+      "longitude":"-75.1757477"
+   }
+}</script> 
+<script type="application/ld+json">{  
+   "@context":"http://schema.org",
+   "@type":"LocalBusiness",
+   "url":"https://something.com/",
+   "name":"Cohen, Placitella & Roth, P.C.",
+   "description":"The law firm of Cohen, Placitella & Roth, P.C. only provides legal advice after it has entered into an attorney-client relationship, which this website specifically does not create. Only after having entered into a written, signed agreement with the law firm of Cohen, Placitella & Roth, P.C. will an attorney-client relationship have been created. It is imperative that any action taken be done on the advice of counsel. Because every case is different, the descriptions of awards and cases previously handled are not meant to be a guarantee of success. Cohen, Placitella & Roth, a National Personal Injury, Mesothelioma, Birth Injury and Medical Malpractice Law Firm with Offices in Pennsylvania and New Jersey.",
+   "image":"https://cprlaw.com/wp-content/uploads/2015/05/CPR1_footer_mobile_rdy.png",
+   "hasMap":"https://www.google.com/maps?ll=39.954163,-75.173731&z=14&t=m&hl=en&gl=US&mapclient=embed&q=2001+Market+St+Philadelphia,+PA+19103",
+   "email":"",
+   "telephone":"(215) 567-3500",
+   "sameAs":[  
+      "https://www.facebook.com/cprlawfirm",
+      "https://www.linkedin.com/company/2587790",
+      "",
+      "https://plus.google.com/110565536213924239349/about"
+   ],
+   "openingHours":[  
+      ""
+   ],
+   "address":{  
+      "@type":"PostalAddress",
+      "addressLocality":"Philadelphia",
+      "addressRegion":"PA",
+      "postalCode":"19103",
+      "streetAddress":"2001 Market Street, Suite 2900"
+   },
+   "geo":{  
+      "@type":"GeoCoordinates",
+      "latitude":"39.9540681",
+      "longitude":"-75.1757477"
+   }
+}</script>
