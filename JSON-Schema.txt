@@ -1,71 +1,73 @@
-//This is code to add business information using JSON as opposed to microdata
+<!--- Begin JSON Schema --->
 
 <script type="application/ld+json">{  
    "@context":"http://schema.org",
    "@type":"Attorney",
-   "url":"https://cprlaw.com/",
-   "name":"Cohen, Placitella & Roth, P.C.",
-   "description":"The law firm of Cohen, Placitella & Roth, P.C. only provides legal advice after it has entered into an attorney-client relationship, which this website specifically does not create. Only after having entered into a written, signed agreement with the law firm of Cohen, Placitella & Roth, P.C. will an attorney-client relationship have been created. It is imperative that any action taken be done on the advice of counsel. Because every case is different, the descriptions of awards and cases previously handled are not meant to be a guarantee of success. Cohen, Placitella & Roth, a National Personal Injury, Mesothelioma, Birth Injury and Medical Malpractice Law Firm with Offices in Pennsylvania and New Jersey.",
-   "image":"https://cprlaw.com/wp-content/uploads/2015/05/CPR1_footer_mobile_rdy.png",
-   "hasMap":"https://www.google.com/maps?ll=39.954163,-75.173731&z=14&t=m&hl=en&gl=US&mapclient=embed&q=2001+Market+St+Philadelphia,+PA+19103",
+   "url":"https://www.summitdisabilitylawgroup.com/",
+   "name":"Summit Disability Law Group",
+   "description":"Helping you get the benefits you’ve earned is our goal at Summit Disability Law Group. We understand the anxiety unemployment brings and the fear tied to life changing injury or illness. Together we work to get you back on your feet so you can provide for your family and yourself with dignity.",
+   "image":"https://www.summitdisabilitylawgroup.com/wp-content/uploads/2015/04/logo_shorter_24.png",
+   "hasMap":"https://www.google.com/maps/place/Summit+Disability+Law+Group/@40.538989,-111.8729653,17z/data=!3m1!4b1!4m5!3m4!1s0x87528770cc27adf7:0x5e50419c3650c637!8m2!3d40.538989!4d-111.8707766?hl=en",
    "email":"",
-   "telephone":"(215) 567-3500",
+   "telephone":"(801) 890-1030",
    "sameAs":[  
-      "https://www.facebook.com/cprlawfirm",
-      "https://www.linkedin.com/company/2587790",
+      "https://www.facebook.com/pg/SummitDisabilityLawGroup/",
+      "https://www.linkedin.com/company-beta/4789547/",
       "",
-      "https://plus.google.com/110565536213924239349/about"
+      "https://plus.google.com/+SummitDisabilityLawGroupDraper"
    ],
    "aggregateRating":{  
       "@type":"AggregateRating",
       "ratingValue":"5",
-      "ratingCount":"11"
+      "ratingCount":"22"
    },
    "openingHours":[  
       ""
    ],
    "address":{  
       "@type":"PostalAddress",
-      "addressLocality":"Philadelphia",
-      "addressRegion":"PA",
-      "postalCode":"19103",
-      "streetAddress":"2001 Market Street, Suite 2900"
+      "addressLocality":"Draper",
+      "addressRegion":"UT",
+      "postalCode":"84020",
+      "streetAddress":"11693 South 700 East #120"
    },
    "geo":{  
       "@type":"GeoCoordinates",
-      "latitude":"39.9540681",
-      "longitude":"-75.1757477"
+      "latitude":"40.539185",
+      "longitude":"-111.870766"
    }
 }</script> 
 <script type="application/ld+json">{  
    "@context":"http://schema.org",
    "@type":"LocalBusiness",
-   "url":"https://something.com/",
-   "name":"Cohen, Placitella & Roth, P.C.",
-   "description":"The law firm of Cohen, Placitella & Roth, P.C. only provides legal advice after it has entered into an attorney-client relationship, which this website specifically does not create. Only after having entered into a written, signed agreement with the law firm of Cohen, Placitella & Roth, P.C. will an attorney-client relationship have been created. It is imperative that any action taken be done on the advice of counsel. Because every case is different, the descriptions of awards and cases previously handled are not meant to be a guarantee of success. Cohen, Placitella & Roth, a National Personal Injury, Mesothelioma, Birth Injury and Medical Malpractice Law Firm with Offices in Pennsylvania and New Jersey.",
-   "image":"https://cprlaw.com/wp-content/uploads/2015/05/CPR1_footer_mobile_rdy.png",
-   "hasMap":"https://www.google.com/maps?ll=39.954163,-75.173731&z=14&t=m&hl=en&gl=US&mapclient=embed&q=2001+Market+St+Philadelphia,+PA+19103",
+   "url":"https://www.summitdisabilitylawgroup.com/",
+   "name":"Summit Disability Law Group",
+   "description":"Helping you get the benefits you’ve earned is our goal at Summit Disability Law Group. We understand the anxiety unemployment brings and the fear tied to life changing injury or illness. Together we work to get you back on your feet so you can provide for your family and yourself with dignity.",
+   "image":"https://www.summitdisabilitylawgroup.com/wp-content/uploads/2015/04/logo_shorter_24.png",
+   "hasMap":"https://www.google.com/maps/place/Summit+Disability+Law+Group/@40.538989,-111.8729653,17z/data=!3m1!4b1!4m5!3m4!1s0x87528770cc27adf7:0x5e50419c3650c637!8m2!3d40.538989!4d-111.8707766?hl=en",
    "email":"",
-   "telephone":"(215) 567-3500",
+   "telephone":"(801) 890-1030",
    "sameAs":[  
-      "https://www.facebook.com/cprlawfirm",
-      "https://www.linkedin.com/company/2587790",
+      "https://www.facebook.com/pg/SummitDisabilityLawGroup/",
+      "https://www.linkedin.com/company-beta/4789547/",
       "",
-      "https://plus.google.com/110565536213924239349/about"
+      "https://plus.google.com/+SummitDisabilityLawGroupDraper"
    ],
    "openingHours":[  
       ""
    ],
    "address":{  
       "@type":"PostalAddress",
-      "addressLocality":"Philadelphia",
-      "addressRegion":"PA",
-      "postalCode":"19103",
-      "streetAddress":"2001 Market Street, Suite 2900"
+      "addressLocality":"Draper",
+      "addressRegion":"UT",
+      "postalCode":"84020",
+      "streetAddress":"11693 South 700 East #120"
    },
    "geo":{  
       "@type":"GeoCoordinates",
-      "latitude":"39.9540681",
-      "longitude":"-75.1757477"
+      "latitude":"40.539185",
+      "longitude":"-111.870766"
    }
 }</script>
+
+<!--- End JSON Schema --->
